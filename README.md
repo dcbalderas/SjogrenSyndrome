@@ -25,7 +25,7 @@ Class | Type of Segment | Label
 
 Images are assigned unique filenames with increasing ID number. The images were taken for TODO n patients over the period of n months. The format is like so: ```xxxxx.jpg```, where the ID is simply an integer from 0 to the current number of image.
 
-The images are placed in a single train folder using the Pascal VOC (Visual Object Classes) folder format.
+The images are placed in a single train folder using the COCO JSON (Instance Segmentation) folder format.
 
 ** train - Labeled images
 
