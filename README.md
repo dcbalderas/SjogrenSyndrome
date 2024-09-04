@@ -1,5 +1,9 @@
 ![Alt text](/photos/sjogren_example.jpg "Sjogren Dataset")
 
+<div align="center">
+    <img src="/photos/sjogren_example.jpg" width="400px"</img> 
+</div>
+
 # SjogrenSyndrome: An Open-Access Dataset for Instance Segmentation
 
 This repository makes available the source code and public dataset for the work, "Sjogren's Syndrome Dataset, an open-access dataset for computer Instance Segmentation, published with open access by Scientific Reports: https://www.. The SjogrenSyndrome dataset consists of TODO images capturing four different parts of the x-ray images of people glands that might be infected with the Sjogren's Syndrome. In our work, the dataset was classified to an average accuracy of TODO:... without Data Augmentation the Yolov8 deep convolutional neural network.
