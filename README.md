@@ -32,7 +32,8 @@ Images are assigned unique filenames with increasing ID number. The images were 
 
 The images are placed in a single train folder using the COCO JSON (Instance Segmentation) folder format.
 
-** train - Labeled images
+** train/image001.jpg
+** train/_annotations.coco.json
 
 ## Images labeling
 
@@ -44,7 +45,7 @@ The TODO file assigns species labels to each image. It is a comma separated text
     <filename>000001.jpg</filename>
     <path>000001.jpg</path>
     <source>
-        <database>tomate_rugoso</database>
+        <database>Sjogren</database>
     </source>
     <size>
         <width>500</width>
@@ -81,7 +82,7 @@ The TODO file assigns species labels to each image. It is a comma separated text
 </annotation>
 ```
 
-## Training
+## Training 
 
 ## Models
 
