@@ -12,8 +12,9 @@ The source code, images and annotations are licensed under [CC BY 4.0](https://c
 The SjogrenSyndrome repository contains a collection of photographs of x-ray images of people infected with the symdrome which can be used to train a image classifiers or be used in machine learning projects. A variety of categories have been provided to ensure a diverse selection of images for the best and most accurate results.
 
 These images were taken from different setup environment using the following rules:
-1. TODO
-2. TODO 
+The salivary gland ultrasonographic images bank of the primary cohorts of patients with SS was obtained from $47$ patients, $30$ images each, in the Juarez de Mexico Hospital Rheumatology Service, with the collaboration of the Instituto Tecnológico of Estudios Superiores de Monterrey using the entire bank of ultrasound images obtained from the main salivary glands.\\
+
+All images were reviewed to meet the inclusion criteria and $1,800$ images were included in the end. The inclusion criteria for the analysis of the images were optimal quality with at least visible glandular tissue $80\%$, ultrasound parameters included in the image, Doppler signal visible in at least one orthogonal plane, and elastography image at least in one plane in each salivary gland. None of $290$ the images were eliminated.
 
 ## Stats
 There are **TODO** images that included **4** clases.
@@ -92,19 +93,13 @@ lr0=0.01, lrf=0.1, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmu
 The models trained are: 
 
 ```
-models/best_00.pt
+models/best.pt
 ```
 
-### First Model
-The first model provided is the Yolov8 trained using the trained folder. It consist of TODO images which were splitted in 70-10-20, resulting in training **TODO**, testing **TODO** and validation **TODO** images. The resulting number of labels where *TODO*
- all        | TODO
- ------ | ------
- GS     | TODO
- GP     | TODO
- V     | TODO
- Q     | TODO 
+### Model
+The model provided is the Yolov8 trained using the trained folder. It consist of 1,800 images which were splitted in 70-10-20, resulting in training 1,121, testing 302 and validation 151 images. The resulting number of labels where *TODO*
 
-The resulting model was saved in models/best_00.pt
+The resulting model was saved in models/best.pt
 
 ## BibTeX (TODO: Update)
 ```
