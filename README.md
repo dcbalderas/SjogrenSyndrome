@@ -12,7 +12,7 @@ The source code, images and annotations are licensed under [CC BY 4.0](https://c
 The SjogrenSyndrome repository contains a collection of photographs of x-ray images of people infected with the symdrome which can be used to train a image classifiers or be used in machine learning projects. A variety of categories have been provided to ensure a diverse selection of images for the best and most accurate results.
 
 These images were taken from different setup environment using the following rules:
-The salivary gland ultrasonographic images bank of the primary cohorts of patients with SS was obtained from $47$ patients, $30$ images each, in the Juarez de Mexico Hospital Rheumatology Service, with the collaboration of the Instituto Tecnológico of Estudios Superiores de Monterrey using the entire bank of ultrasound images obtained from the main salivary glands.\\
+The salivary gland ultrasonographic images bank of the primary cohorts of patients with SS was obtained from $47$ patients, $25~35$ images each, in the Juarez de Mexico Hospital Rheumatology Service, with the collaboration of the Instituto Tecnológico of Estudios Superiores de Monterrey using the entire bank of ultrasound images obtained from the main salivary glands.\\
 
 All images were reviewed to meet the inclusion criteria and $1,800$ images were included in the end. The inclusion criteria for the analysis of the images were optimal quality with at least visible glandular tissue $80\%$, ultrasound parameters included in the image, Doppler signal visible in at least one orthogonal plane, and elastography image at least in one plane in each salivary gland. None of $290$ the images were eliminated.
 
