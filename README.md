@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/photos/sjogren_example.jpg" width="600px"</img> 
+    <img src="/photos/sjogren_example.png" width="600px"</img> 
 </div>
 
 # SjogrenSyndrome: An Open-Access Dataset for Instance Segmentation
